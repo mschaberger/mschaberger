@@ -1,5 +1,5 @@
 <p align="center">
-  <img alig src="./banner.mov" width="1100"/>
+  <img alig src="https://www.canva.com/join/ndn-qjm-pdt" width="1100"/>
 </p>
 
 <h3 align="center">A passionate full stack developer from Argentina</h3>
