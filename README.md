@@ -1,4 +1,7 @@
-<h1 align="center">Hello World 👋, I'm Mica!</h1>
+<p align="center">
+  <img alig src="./banner.mov" width="1100"/>
+</p>
+
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
 <h3 align="left">Connect with me:</h3>
