@@ -1,5 +1,5 @@
 <p align="center">
-  <img alig src="./banner.git" width="1100"/>
+  <img src="./banner.git" width="1100"/>
 </p>
 
 <h3 align="center">A passionate full stack developer from Argentina</h3>
