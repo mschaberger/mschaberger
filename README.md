@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src='https://www.canva.com/design/DAFCf32SZuo/RK-2BRAJd024TVxHxg-dLw/watch?utm_content=DAFCf32SZuo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink' width="900"/>
+  <img src: width="900"/>
 </p>
 
 <h3 align="center">A passionate full stack developer from Argentina</h3>
