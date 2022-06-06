@@ -1,5 +1,6 @@
+import banner from './banner.git'
 <p align="center">
-  <img src="./banner.git" width="1100"/>
+  <img src={banner} width="900"/>
 </p>
 
 <h3 align="center">A passionate full stack developer from Argentina</h3>
