@@ -1,9 +1,9 @@
 
-<p align="center">
-  <img src: width="900"/>
-</p>
+![Hi, I'm Mica](https://github.com/mschaberger/mschaberger/blob/main/banner.gif)
 
-<h3 align="center">A passionate full stack developer from Argentina</h3>
+<h2 align="center">
+:heart: A Full Stack Developer from Argentina to the:earth_americas:
+</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
