@@ -2,7 +2,7 @@
 ![Hi, I'm Mica](https://github.com/mschaberger/mschaberger/blob/main/banner.gif)
 
 <h2 align="center">
-:heart: A Full Stack Developer from Argentina to the:earth_americas:
+A Full Stack Developer from Argentina :heart: 
 </h2>
 
 <h3 align="left">Connect with me:</h3>
