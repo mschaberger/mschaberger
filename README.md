@@ -31,8 +31,8 @@ A Full Stack Developer from Argentina :argentina:
 
 ## :paperclip: How to reach me:
 <span >
-<a href="https://www.linkedin.com/in/micaela-schaberger/" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png"> &nbsp;
-<a href="mailto:micaela.schaberger@gmail.com" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png">
+<a href="https://www.linkedin.com/in/micaela-schaberger/" ><img width="5%" src="https://github.com/mschaberger/mschaberger/blob/main/linkedin%20(1).png"> &nbsp;
+<a href="mailto:micaela.schaberger@gmail.com" ><img width="5%" src="https://github.com/mschaberger/mschaberger/blob/main/gmail%20(1).png">
 </span>
 
 
