@@ -29,5 +29,10 @@ A Full Stack Developer from Argentina :argentina:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mschaberger&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mschaberger&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## :paperclip: How to reach me:
+<span >
+<a href="https://www.linkedin.com/in/micaela-schaberger/" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png"> &nbsp;
+<a href="mailto:micaela.schaberger@gmail.com" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png">
+</span>
 
 
