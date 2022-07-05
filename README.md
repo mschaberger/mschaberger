@@ -65,7 +65,7 @@ The app allows you to search by name, filter by gender and origin, and sort by a
 The user is able to create their own videogame through a controlled form. <br>
 This was my first full stack project developed all by myself. 
 <br></br>
-🚀 Technologies: React - Redux - NodeJS - Express - Sequelize - PostgreSQL - CSS
+🚀 Technologies: React - Redux - NodeJS - Express - Sequelize - PostgreSQL - CSS <br>
 :zap: CHECK IT OUT: https://the-videogame-app.vercel.app/
 <br></br>
 
