@@ -50,17 +50,14 @@ By working on this project I learned, among other things, to: <br>
 :zap: CHECK IT OUT: https://proyecto-final-timberli.vercel.app/ 
 <br></br>
 
-<img align="left"  width= "400px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingPageT.png' />
-<img align="center" width= "400px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingProjects.png' />
-<img align="left" width= "400px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/projectDetail.png' />
-<img align="center"width= "400px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingCommunity.png' />
-<img align="left" width= "400px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/payment.png' />
-<img align="center"width= "400px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/Login.png' />
+<img align="left"  width= "405px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingPageT.png' />
+<img align="center" width= "405px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingProjects.png' />
+<img align="left" width= "405px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/projectDetail.png' />
+<img align="center"width= "405px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingCommunity.png' />
+<img align="left" width= "405px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/payment.png' />
+<img align="center"width= "405px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/Login.png' />
 
 <br></br>
-<br></br>
-<hr/>
-<hr/>
 <br></br>
 
 ### :round_pushpin: ***THE VIDEOGAME APP***
@@ -77,6 +74,7 @@ This was my first full stack project developed all by myself.
 <img align="center" width= "405px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/homePage.png' />
 <img align="right" width= "405px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/gameDetail.png' />
 <img align="center" width= "405px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/gameCreate.png' />
+<br></br>
 <br></br>
 
 ## :chart_with_upwards_trend: Stats:
