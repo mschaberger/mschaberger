@@ -38,7 +38,7 @@ A Full Stack Developer from Argentina :argentina:
 ## :pushpin: Recent Projects:
 ### :round_pushpin: ***TIMBERLI.*** 
 Final project for Henry's Full Stack web development bootcamp.<br>
-It is a platform where developers can share their work with images and videos, they can leave reviews on other projects and save their favorite work from colleagues. As a developer, you can built your portfolio, get feedback and get inspired by other developers. As a recruiter, you can easily find your next candidate! <br>
+It is a platform where developers can share their work with images and videos, they can leave reviews on other projects and save their favorite work from colleagues. As a developer, you can build your portfolio, get feedback and get inspired by other developers. As a recruiter, you can easily find your next candidate! <br>
 By working on this project I learned, among other things, to: <br>
 -> Manage git working on a github repository collaboratively <br>
 -> Register and login with authentication <br>
