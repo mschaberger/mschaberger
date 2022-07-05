@@ -32,7 +32,7 @@ A Full Stack Developer from Argentina :argentina:
 
 ## :pushpin: Recent Projects:
 ### TIMBERLI. 
-📌 Final project for the Henry's bootcamp<br>
+:round_pushpin: Final project for the Henry's bootcamp.<br>
 🚀 Technologies: React - Redux - NodeJS- Express - Sequelize - PostgreSQL <br>
 :zap: https://proyecto-final-timberli.vercel.app/ 
 
@@ -44,7 +44,7 @@ A Full Stack Developer from Argentina :argentina:
 
 
 ### THE VIDEOGAME APP
-📌 Individual project for the Henry's bootcamp <br>
+:round_pushpin: Individual project for the Henry's bootcamp. <br>
 🚀 Technologies: React - Redux - NodeJS- Express - Sequelize - PostgreSQL  
 
 <img align="left" width= "350px" src='' />
