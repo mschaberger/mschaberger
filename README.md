@@ -1,5 +1,5 @@
 
-![Hi, I'm Mica](https://github.com/mschaberger/mschaberger/blob/main/banner.gif)
+![Hi, I'm Mica](https://github.com/mschaberger/mschaberger/blob/main/assets/holaMica.gif)
 
 <h2 align="center">
 A Full Stack Developer from Argentina :argentina: 
@@ -14,8 +14,8 @@ A Full Stack Developer from Argentina :argentina:
 
 ## :paperclip: How to reach me:
 <span >
-<a href="https://www.linkedin.com/in/micaela-schaberger/" ><img width="5%" src="https://github.com/mschaberger/mschaberger/blob/main/linkedin%20(1).png"> &nbsp;
-<a href="mailto:micaela.schaberger@gmail.com" ><img width="5%" src="https://github.com/mschaberger/mschaberger/blob/main/gmail%20(1).png">
+<a href="https://www.linkedin.com/in/micaela-schaberger/" ><img width="5%" src="https://github.com/mschaberger/mschaberger/blob/main/assets/linkedin%20(1).png"> &nbsp;
+<a href="mailto:micaela.schaberger@gmail.com" ><img width="5%" src="https://github.com/mschaberger/mschaberger/blob/main/assets/gmail%20(1).png">
 </span>
 <br></br>
   
@@ -33,24 +33,37 @@ A Full Stack Developer from Argentina :argentina:
 ## :pushpin: Recent Projects:
 ### TIMBERLI. 
 :round_pushpin: Final project for the Henry's bootcamp.<br>
-🚀 Technologies: React - Redux - NodeJS- Express - Sequelize - PostgreSQL <br>
-:zap: https://proyecto-final-timberli.vercel.app/ 
+It is a platform where developers can share their work with images and videos, they can leave reviews on other projects and save their favorite work from colleagues. As a developer, you can built your portfolio, get feedback and get inspired by other developers. As a recruiter, you can easily find your next candidate!
+By working on this project I learned, among other things, to:
+-> Manage git working on a github repository collaboratively
+-> Register and login with authentication
+-> Implement a chatbot
+-> Include a payment method
+-> Logic to upload your own images and videos directly (not through urls)
+<br></br>
+🚀 Technologies: React - Redux - NodeJS- Express - Sequelize - PostgreSQL -CSS <br>
+:zap: CHECK IT OUT: https://proyecto-final-timberli.vercel.app/ 
+<br></br>
 
-<img align="left"  width= "350px" src='' />
-<img align="center" width= "350px" src='' />
-<img align="left" width= "350px" src='' />
-<img align="center"width= "350px" src='' />
+<img align="left"  width= "350px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingPageT.png' />
+<img align="center" width= "350px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingProjects.png' />
+<img align="left" width= "350px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/projectDetail.png' />
+<img align="center"width= "350px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingCommunity.png' />
+<img align="left" width= "350px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/payment.png' />
+<img align="center"width= "350px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/Login.png' />
+
 <br></br>
 
 
 ### THE VIDEOGAME APP
 :round_pushpin: Individual project for the Henry's bootcamp. <br>
-🚀 Technologies: React - Redux - NodeJS- Express - Sequelize - PostgreSQL  
+🚀 Technologies: React - Redux - NodeJS - Express - Sequelize - PostgreSQL - CSS
+<br></br>
 
-<img align="left" width= "350px" src='' />
-<img align="center" width= "350px" src='' />
-<img align="left" width= "350px" src='' />
-<img align="center" width= "350px" src='' />
+<img align="left" width= "350px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingPage.png' />
+<img align="center" width= "350px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/homePage.png' />
+<img align="left" width= "350px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/gameDetail.png' />
+<img align="center" width= "350px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/gameCreate.png' />
 <br></br>
 
 ## :chart_with_upwards_trend: Stats:
