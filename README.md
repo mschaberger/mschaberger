@@ -56,8 +56,6 @@ By working on this project I learned, among other things, to: <br>
 <img align="center"width= "405px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingCommunity.png' />
 <img align="left" width= "405px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/payment.png' />
 <img align="center"width= "405px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/Login.png' />
-
-<br></br>
 <br></br>
 
 ### :round_pushpin: ***THE VIDEOGAME APP***
