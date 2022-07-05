@@ -31,8 +31,8 @@ A Full Stack Developer from Argentina :argentina:
 <br></br>
 
 ## :pushpin: Recent Projects:
-### TIMBERLI. 
-:round_pushpin: Final project for Henry's Full Stack web development bootcamp.<br>
+### :round_pushpin: TIMBERLI. 
+Final project for Henry's Full Stack web development bootcamp.<br>
 It is a platform where developers can share their work with images and videos, they can leave reviews on other projects and save their favorite work from colleagues. As a developer, you can built your portfolio, get feedback and get inspired by other developers. As a recruiter, you can easily find your next candidate! <br>
 By working on this project I learned, among other things, to: <br>
 -> Manage git working on a github repository collaboratively <br>
@@ -45,18 +45,18 @@ By working on this project I learned, among other things, to: <br>
 :zap: CHECK IT OUT: https://proyecto-final-timberli.vercel.app/ 
 <br></br>
 
-<img align="left"  width= "380px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingPageT.png' />
-<img align="right" width= "380px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingProjects.png' />
-<img align="left" width= "380px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/projectDetail.png' />
-<img align="right"width= "380px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingCommunity.png' />
-<img align="left" width= "380px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/payment.png' />
-<img align="right"width= "380px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/Login.png' />
+<img align="left"  width= "400px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingPageT.png' />
+<img align="right" width= "400px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingProjects.png' />
+<img align="left" width= "400px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/projectDetail.png' />
+<img align="right"width= "400px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingCommunity.png' />
+<img align="left" width= "400px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/payment.png' />
+<img align="right"width= "400px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/Login.png' />
 
 <br></br>
 
 
-### THE VIDEOGAME APP
-:round_pushpin: Individual project for Henry's Full Stack web development bootcamp. <br>
+### :round_pushpin: THE VIDEOGAME APP
+ Individual project for Henry's Full Stack web development bootcamp. <br>
 It is an app that consumes data from an API and a local database. It has a landing page from which you can access the main page, where all the videogames are displayed. By clicking each videogame, you can see more information and a link that redirects you to the official page. <br>
 The app allows you to search by name, filter by gender and origin, and sort by alphabetical order and ranking. It also has a pagination. <br>
 The user is able to create their own videogame through a controlled form. <br>
@@ -65,10 +65,10 @@ This was my first full stack project developed all by myself.
 🚀 Technologies: React - Redux - NodeJS - Express - Sequelize - PostgreSQL - CSS
 <br></br>
 
-<img align="left" width= "380px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingPage.png' />
-<img align="right" width= "380px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/homePage.png' />
-<img align="left" width= "380px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/gameDetail.png' />
-<img align="right" width= "380px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/gameCreate.png' />
+<img align="left" width= "400px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingPage.png' />
+<img align="right" width= "400px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/homePage.png' />
+<img align="left" width= "400px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/gameDetail.png' />
+<img align="right" width= "400px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/gameCreate.png' />
 <br></br>
 
 ## :chart_with_upwards_trend: Stats:
