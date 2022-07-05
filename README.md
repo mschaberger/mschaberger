@@ -68,11 +68,10 @@ This was my first full stack project developed all by myself.
 🚀 Technologies: React - Redux - NodeJS - Express - Sequelize - PostgreSQL - CSS
 <br></br>
 
-<img align="right" width= "405px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingPage.png' />
+<img align="left" width= "405px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingPage.png' />
 <img align="center" width= "405px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/homePage.png' />
-<img align="right" width= "405px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/gameDetail.png' />
+<img align="left" width= "405px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/gameDetail.png' />
 <img align="center" width= "405px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/gameCreate.png' />
-<br></br>
 <br></br>
 
 ## :chart_with_upwards_trend: Stats:
