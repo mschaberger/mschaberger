@@ -50,12 +50,12 @@ By working on this project I learned, among other things, to: <br>
 :zap: CHECK IT OUT: https://proyecto-final-timberli.vercel.app/ 
 <br></br>
 
-![imagen Timbrli] <img align="left"  width= "400px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingPageT.png' />
-![imagen Timbrli] <img align="right" width= "400px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingProjects.png' />
-![imagen Timbrli] <img align="left" width= "400px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/projectDetail.png' />
-![imagen Timbrli] <img align="right"width= "400px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingCommunity.png' />
-![imagen Timbrli] <img align="left" width= "400px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/payment.png' />
-![imagen Timbrli] <img align="right"width= "400px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/Login.png' />
+<img align="left"  width= "400px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingPageT.png' />
+<img align="right" width= "400px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingProjects.png' />
+<img align="left" width= "400px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/projectDetail.png' />
+<img align="right"width= "400px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingCommunity.png' />
+<img align="left" width= "400px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/payment.png' />
+<img align="right"width= "400px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/Login.png' />
 
 <br></br>
 <br></br>
@@ -71,10 +71,10 @@ This was my first full stack project developed all by myself.
 🚀 Technologies: React - Redux - NodeJS - Express - Sequelize - PostgreSQL - CSS
 <br></br>
 
-![imagen VideogameaAPP] <img align="right" width= "390px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingPage.png' />
-![imagen VideogameaAPP] <img align="left" width= "390px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/homePage.png' />
-![imagen VideogameaAPP] <img align="right" width= "390px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/gameDetail.png' />
-![imagen VideogameaAPP] <img align="left" width= "390px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/gameCreate.png' />
+<img align="right" width= "390px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingPage.png' />
+<img align="left" width= "390px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/homePage.png' />
+<img align="right" width= "390px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/gameDetail.png' />
+<img align="left" width= "390px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/gameCreate.png' />
 <br></br>
 
 ## :chart_with_upwards_trend: Stats:
