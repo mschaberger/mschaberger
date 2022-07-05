@@ -66,6 +66,7 @@ The user is able to create their own videogame through a controlled form. <br>
 This was my first full stack project developed all by myself. 
 <br></br>
 🚀 Technologies: React - Redux - NodeJS - Express - Sequelize - PostgreSQL - CSS
+:zap: CHECK IT OUT: https://the-videogame-app.vercel.app/
 <br></br>
 
 <img align="left" width= "405px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingPage.png' />
