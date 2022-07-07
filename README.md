@@ -9,7 +9,7 @@ A Full Stack Developer from Argentina :argentina:
 :wave: I'm a compromised, creative and resolutive profesional. I'm 26 years old and it wasn't until a year ago that I found out about my passion for programming, front-end development and web design. And now i can't stop learning more and more about this amazing tech world.  <br><br>
 🔭 I’m currently working on a e-commerce web and mobile app.<br>
 👯 I’m looking to collaborate on front-end developments and UX/UI design projects.<br>
-:zap: I’m currently learning typescript and python.<br>
+:zap: I’m currently learning python.<br>
 :shamrock: I also have a degree in environmental management.
 <br></br>
 
