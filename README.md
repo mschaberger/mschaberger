@@ -2,7 +2,7 @@
 ![Hi, I'm Mica](https://github.com/mschaberger/mschaberger/blob/main/assets/holaMica.gif)
 
 <h2 align="center">
-A Full Stack Developer from Argentina :argentina: 
+Full Stack Developer from Argentina :argentina: 
 </h2>
 
 ## :sparkles: About Me:
