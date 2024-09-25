@@ -6,7 +6,10 @@ Data Engineer from Argentina :argentina:
 </h2>
 
 ## :sparkles: About Me:
-:wave: a creative, detail-oriented, and resourceful person who adapts easily. I enjoy learning new things and facing new challenges. I have a degree in Environmental Management 🌱, but I've also studied web development 🖥️ and other technologies, which now allows me to work as a Data Engineer 💡.
+:wave: a creative, detail-oriented, and resourceful person who adapts easily. I enjoy learning new things and facing new challenges. 
+<br></br>
+I have a degree in Environmental Management 🌱, but I've also studied web development 🖥️ and other technologies, which now allows me to work as a Data Engineer 💡.
+<br></br>
 :zap: I’m currently working as a DATA ENGINEER at Devoteam.<br>
 <br></br>
 
