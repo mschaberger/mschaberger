@@ -2,14 +2,12 @@
 ![Hi, I'm Mica](https://github.com/mschaberger/mschaberger/blob/main/assets/holaMica.gif)
 
 <h2 align="center">
-Full Stack Developer from Argentina :argentina: 
+Data Engineer from Argentina :argentina: 
 </h2>
 
 ## :sparkles: About Me:
-:wave: I'm a compromised, creative and resolutive profesional. I'm 26 years old and it wasn't until a while ago that I found out about my passion for programming, front-end development and web design.<br><br>
-🔭 I’m currently working on my portfolio and an e-commerce.<br>
-:zap: I’m currently learning python.<br>
-:shamrock: I also have a degree in environmental management.
+:wave: a creative, detail-oriented, and resourceful person who adapts easily. I enjoy learning new things and facing new challenges. I have a degree in Environmental Management 🌱, but I've also studied web development 🖥️ and other technologies, which now allows me to work as a Data Engineer 💡.
+:zap: I’m currently working as a DATA ENGINEER at Devoteam.<br>
 <br></br>
 
 
