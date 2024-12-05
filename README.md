@@ -10,7 +10,7 @@ Data Engineer from Argentina 🇦🇷
 <br></br>
 I have a degree in Environmental Management 🌱, but I've also studied web development 🖥️ and other technologies, which now allows me to work as a Data Engineer 💡.
 <br></br>
-:zap: I’m currently working as a DATA ENGINEER at Devoteam.<br>
+:zap: I’m currently working as a DATA ENGINEER at Izertis for IFCO SYSTEMS.<br>
 <br></br>
 
 
